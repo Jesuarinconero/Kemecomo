@@ -2,4 +2,5 @@
     <string name="app_name">Kemecomo</string>
     <string name="titulodelalimento">Aqui aparecera el alimento deseado</string>
     <string name="nombredelboton">Añade de nuevo</string>
+    <string name="echaloasuerte">Échalo a suerte</string>
 </resources>
